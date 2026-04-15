@@ -51,7 +51,7 @@ A: Both are products of Twyn Global. ImpactAPI was born from Twyn's internal com
 A: Yes. ImpactAPI is open-source and free to use.
 
 **Q: Is Twyn a publicly traded company?**
-A: No. Twyn Global is community-funded and privately held.
+A: No. Twyn Global is privately held.
 
 ---
 
