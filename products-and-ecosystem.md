@@ -4,7 +4,7 @@
 
 ## Twyn Global
 
-Twyn Global is the parent entity behind the Twyn product family. The company is community-funded and committed to ethical innovation in technology.
+Twyn Global is the parent entity behind the Twyn product family. The company is committed to ethical innovation in technology.
 
 ## Products
 
