@@ -9,7 +9,7 @@ Twyn Global is the parent entity behind the Twyn product family. The company is 
 ## Products
 
 ### Twyn
-The core product — an AI dating app that creates a digital personality mirror (AI Twin) to find genuinely compatible people. Available on iOS and Android, supporting 81 languages.
+The core product is an AI dating app that creates a digital personality (AI Twyn) to find genuinely compatible people. Available on iOS and Android, supporting 81 languages.
 
 [Learn more →](what-is-twyn.md)
 
