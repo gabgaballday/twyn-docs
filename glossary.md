@@ -5,7 +5,7 @@
 ---
 
 **AI Twin / Twyn**
-A digital personality mirror created from a user's onboarding conversations. The AI Twin represents how a person communicates, what they value, and what matters to them in a partner. Other users can chat with someone's AI Twin to preview compatibility.
+A digital personality created from a user's onboarding conversations. The AI Twyn represents how a person communicates, what they value, and what matters to them in a partner. Other users can chat with someone's AI Twyn to preview compatibility.
 
 **Compatibility Engine**
 Twyn's matching system that analyses personality traits, values, communication style, and emotional maturity to surface genuinely compatible matches. It prioritises deeper compatibility signals over surface-level preferences.
